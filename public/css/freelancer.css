@@ -173,6 +173,11 @@ header .intro-text .skills {
     font-size: 1.5em;
   }
 }
+img-responsive {
+  width: 250px;
+  height:123.19px;
+}
+
 section {
   padding: 100px 0;
 }
